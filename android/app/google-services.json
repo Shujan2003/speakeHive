@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "825728375164",
+    "project_id": "grievancapp",
+    "storage_bucket": "grievancapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825728375164:android:88cff9542c7589627aecf9",
+        "android_client_info": {
+          "package_name": "com.example.grievance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825728375164-pgaoul7015c4bkkd83o3p4qs34qn3glr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grievance",
+            "certificate_hash": "0af6dbade445915f39a59de18dcc6a92d1e8a880"
+          }
+        },
+        {
+          "client_id": "825728375164-skah0mphrd22up3t0sojg243mcge1gos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWhg4udHjByesMaVlZ8uPcG_Wqxjb4ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825728375164-skah0mphrd22up3t0sojg243mcge1gos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "825728375164-v2fch64pqokph7t7pghcvjv02afuk4vu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grievance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
