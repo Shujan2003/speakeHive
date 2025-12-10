@@ -1,6 +1,6 @@
 # SpeakHive
-
-A new Flutter project.
+I have built this App using Flutter, Firebase Authentication, and Firestore. It allows students to submit complaints either with their name or anonymously, and admins can view/manage those complaints.
+In colleges, students often hesitate to raise complaints due to fear of being identified. I wanted to solve this by providing a digital platform where students can submit grievances easily and anonymously if they wish.
 
 ## Getting Started
 
